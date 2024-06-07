@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Russel-T
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning AI/ML
-- 📫 How to reach me: russel.abraham123@gmai.com
+- 📫 How to reach me: russel.abraham123@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play the Piano 🎹
 
